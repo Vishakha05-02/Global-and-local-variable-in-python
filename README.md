@@ -1,0 +1,1 @@
+# Global-and-local-variable-in-python
